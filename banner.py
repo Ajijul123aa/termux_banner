@@ -40,14 +40,14 @@ echo
 echo "
    < ━━━━━━━━━ [★] DO YOU KNOW ME [★] ━━━━━━━━━━━━ >  " |lolcat
 echo
-    echo "  We Are AnonyMouse" |lolcat
+    echo "  We Are AnonyMouse (JIBON)" |lolcat
 '''
 
 bashrc2 = '''
 echo "
              We Do Not HaCk to impress
                         We HaCk To Express
-   < ━━━━━━━━━━━ [★]JIBON🙁[★] ━━━━━━━━━━━━ > " |lolcat
+   < ━━━━━━━━━━━ [★]JIBON Broh [★] ━━━━━━━━━━━━ > " |lolcat
 
 python /data/data/com.termux/files/usr/etc/wlc.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
