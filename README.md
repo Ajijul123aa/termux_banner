@@ -6,7 +6,7 @@ pkg up -y
 
 pkg in git python2 -y
 
-git clone https://github.com/Ajijul123aa/termux_banner
+git clone https://github.com/MRJIBON/termux_banner
 
 cd termux_banner
 
